@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Quest Level
+## Notes: Shows each quest's level in the quest log, e.g. "[72] Quest Name".
+## Author: Phillip Pratt
+## Version: 1.0.0
+## SavedVariables: QuestLevelDB
+## X-Category: Quest
+
+QuestLevel.lua
